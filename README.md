@@ -64,7 +64,7 @@ Thank you for reviewing my work! I'm excited to contribute to the world of AI an
 ---
 
  Course Overview  • Environment Setup  •
-## Course Modules  & Assignments
+## Course Modules  
 
 Modules And Content Description                                                                                                                                                                                Module 1:       Introduction to NLP & NLU                                                        
 Module 2:      Text Preprocessing & Cleaning                                                                                                  
